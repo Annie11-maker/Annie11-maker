@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me:
 Web Developer 💪
-- 🏡 Based in the UK
+- 🏡 Based in UK
 - 💻 Passionate about coding
 - 🔶 Currently in love with Ruby
 - 😎 Problem Solver 
