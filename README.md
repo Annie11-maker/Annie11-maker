@@ -24,6 +24,9 @@ Web Developer 💪
 </div>
 
 ### 📊 My Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annie11-maker&layout=compact&theme=kacho_ga" alt="My most used languages">
-<img src="https://github.r2v.ch/codewars?user=Annie11-maker&theme=gradient" alt="My codewars stats">
+<div id="mystack" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annie11-maker&layout=compact&theme=kacho_ga" alt="My most used languages">
+  <br>
+  <img src="https://github.r2v.ch/codewars?user=Annie11-maker&theme=gradient" alt="My codewars stats">
+</div>
 
