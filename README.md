@@ -14,9 +14,9 @@
 ### 👩‍💻 About Me:
 Web Developer 💪
 - 🏡 Based in the UK
-- 🧑‍🦽 Passionate about coding
-- 🌱 Currently in love with Ruby
-- 🏀 Problem Solver 
+- 💻 Passionate about coding
+- 🔶 Currently in love with Ruby
+- 😎 Problem Solver 
 
 ### 📚 My Tech Stack:
 <div id="stack" align="center">
@@ -25,8 +25,8 @@ Web Developer 💪
 
 ### 📊 My Stats:
 <div id="mystack" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annie11-maker&layout=compact&theme=kacho_ga" alt="My most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annie11-maker&layout=compact&theme=shades-of-purple" alt="My most used languages">
   <br>
-  <img src="https://github.r2v.ch/codewars?user=Annie11-maker&theme=gradient" alt="My codewars stats">
+  <img src="https://github.r2v.ch/codewars?user=Annie11-maker&theme=gradient_purple_dark_by_level" alt="My codewars stats">
 </div>
 
