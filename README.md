@@ -20,7 +20,7 @@ Web Developer 💪
 
 ### 📚 My Tech Stack:
 <div id="stack" align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,html,css,figma" alt="My tech stack - ruby, rails, python, c plus plus, html, css, react and figma">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,html,css,figma,react" alt="My tech stack - ruby, rails, python, c plus plus, html, css, react and figma">
 </div>
 
 ### 📊 My Stats:
