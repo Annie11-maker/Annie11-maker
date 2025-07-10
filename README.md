@@ -15,7 +15,7 @@
 Web Developer 💪
 - 🏡 Based in UK
 - 💻 Passionate about coding
-- 🔶 Currently in love with Ruby
+- 🔶 Currently in love with Ruby && JavaScript
 - 😎 Problem Solver 
 
 ### 📚 My Tech Stack:
